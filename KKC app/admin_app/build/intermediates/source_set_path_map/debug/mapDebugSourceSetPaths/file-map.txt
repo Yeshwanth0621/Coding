@@ -1,0 +1,80 @@
+com.kkc.clubconnect.admin_app-lifecycle-livedata-core-2.8.4-0 C:\Users\vyesh\.gradle\caches\transforms-4\00afd081a95311770239f01df27f65e9\transformed\lifecycle-livedata-core-2.8.4\res
+com.kkc.clubconnect.admin_app-profileinstaller-1.3.1-1 C:\Users\vyesh\.gradle\caches\transforms-4\034581300071092f33bb02bbb9c9658d\transformed\profileinstaller-1.3.1\res
+com.kkc.clubconnect.admin_app-lifecycle-livedata-core-ktx-2.8.4-2 C:\Users\vyesh\.gradle\caches\transforms-4\08df3f664ea95858a2cc384b687eab27\transformed\lifecycle-livedata-core-ktx-2.8.4\res
+com.kkc.clubconnect.admin_app-ui-unit-release-3 C:\Users\vyesh\.gradle\caches\transforms-4\0a5410a871d7d772d0a33993fec0272f\transformed\ui-unit-release\res
+com.kkc.clubconnect.admin_app-transition-1.5.0-4 C:\Users\vyesh\.gradle\caches\transforms-4\16e92581ca9b7f5425382b8470908dd9\transformed\transition-1.5.0\res
+com.kkc.clubconnect.admin_app-lifecycle-livedata-2.8.4-5 C:\Users\vyesh\.gradle\caches\transforms-4\16f157c62bb125aebdcef8e7c33f3c35\transformed\lifecycle-livedata-2.8.4\res
+com.kkc.clubconnect.admin_app-animation-release-6 C:\Users\vyesh\.gradle\caches\transforms-4\17067cba942f4a5dd668d1f3ad25aa1c\transformed\animation-release\res
+com.kkc.clubconnect.admin_app-work-runtime-ktx-2.9.0-7 C:\Users\vyesh\.gradle\caches\transforms-4\189e246e8266c31747c42704ea45afef\transformed\work-runtime-ktx-2.9.0\res
+com.kkc.clubconnect.admin_app-cardview-1.0.0-8 C:\Users\vyesh\.gradle\caches\transforms-4\1f804adf599e76fa8be130629f31af8e\transformed\cardview-1.0.0\res
+com.kkc.clubconnect.admin_app-ui-tooling-preview-release-9 C:\Users\vyesh\.gradle\caches\transforms-4\234ac15979e9054e056b961803d5f8a5\transformed\ui-tooling-preview-release\res
+com.kkc.clubconnect.admin_app-appcompat-resources-1.6.1-10 C:\Users\vyesh\.gradle\caches\transforms-4\2450c1621e637c159c37f4133eb0d12f\transformed\appcompat-resources-1.6.1\res
+com.kkc.clubconnect.admin_app-material-icons-core-release-11 C:\Users\vyesh\.gradle\caches\transforms-4\2943453ccf7d156a79154a03882fdfe8\transformed\material-icons-core-release\res
+com.kkc.clubconnect.admin_app-navigation-compose-2.7.7-12 C:\Users\vyesh\.gradle\caches\transforms-4\29e5fd8e7ddf1e09bf9f6963ddb8de8c\transformed\navigation-compose-2.7.7\res
+com.kkc.clubconnect.admin_app-core-splashscreen-1.0.1-13 C:\Users\vyesh\.gradle\caches\transforms-4\2a164535572790283169587a58ea395a\transformed\core-splashscreen-1.0.1\res
+com.kkc.clubconnect.admin_app-ui-release-14 C:\Users\vyesh\.gradle\caches\transforms-4\2b643c11888def380aa7b50e15c6a9a3\transformed\ui-release\res
+com.kkc.clubconnect.admin_app-foundation-release-15 C:\Users\vyesh\.gradle\caches\transforms-4\3b6280888f315517b566fc534b247a01\transformed\foundation-release\res
+com.kkc.clubconnect.admin_app-fragment-1.3.6-16 C:\Users\vyesh\.gradle\caches\transforms-4\3bccec33ac178479ffc944aa63472f60\transformed\fragment-1.3.6\res
+com.kkc.clubconnect.admin_app-ui-geometry-release-17 C:\Users\vyesh\.gradle\caches\transforms-4\417d54b78262763abf300da36798aa6b\transformed\ui-geometry-release\res
+com.kkc.clubconnect.admin_app-room-ktx-2.5.0-18 C:\Users\vyesh\.gradle\caches\transforms-4\45c59cc27b02690dd7484e0624829258\transformed\room-ktx-2.5.0\res
+com.kkc.clubconnect.admin_app-ui-util-release-19 C:\Users\vyesh\.gradle\caches\transforms-4\4620f76e642baa2a6f286c6ccecba2fc\transformed\ui-util-release\res
+com.kkc.clubconnect.admin_app-runtime-saveable-release-20 C:\Users\vyesh\.gradle\caches\transforms-4\478b1255284ab6e60e480af62fe7773f\transformed\runtime-saveable-release\res
+com.kkc.clubconnect.admin_app-navigation-common-ktx-2.7.7-21 C:\Users\vyesh\.gradle\caches\transforms-4\4abb9d325aca640ae232df97094ba26c\transformed\navigation-common-ktx-2.7.7\res
+com.kkc.clubconnect.admin_app-material-icons-extended-release-22 C:\Users\vyesh\.gradle\caches\transforms-4\51838ae5369b38d5ef5a2c7c9af065f2\transformed\material-icons-extended-release\res
+com.kkc.clubconnect.admin_app-lifecycle-service-2.8.4-23 C:\Users\vyesh\.gradle\caches\transforms-4\5375ebf9f0d3ab5e21cdd898ef45bb6d\transformed\lifecycle-service-2.8.4\res
+com.kkc.clubconnect.admin_app-navigation-runtime-2.7.7-24 C:\Users\vyesh\.gradle\caches\transforms-4\56c74f5cb92c0a3cff6412c3e389c0d7\transformed\navigation-runtime-2.7.7\res
+com.kkc.clubconnect.admin_app-recyclerview-1.1.0-25 C:\Users\vyesh\.gradle\caches\transforms-4\58414b36f6a0e266c3747be09ea1d06e\transformed\recyclerview-1.1.0\res
+com.kkc.clubconnect.admin_app-coil-base-2.7.0-26 C:\Users\vyesh\.gradle\caches\transforms-4\5c0d3f0d2f240f02613824539c2aa704\transformed\coil-base-2.7.0\res
+com.kkc.clubconnect.admin_app-startup-runtime-1.1.1-27 C:\Users\vyesh\.gradle\caches\transforms-4\61d682d7268500b4937b4c052156720d\transformed\startup-runtime-1.1.1\res
+com.kkc.clubconnect.admin_app-appcompat-1.6.1-28 C:\Users\vyesh\.gradle\caches\transforms-4\65495b4c059563c36a5a9939d4e63db5\transformed\appcompat-1.6.1\res
+com.kkc.clubconnect.admin_app-work-runtime-2.9.0-29 C:\Users\vyesh\.gradle\caches\transforms-4\664a92edbec195ef6dcc0f41c6911cd5\transformed\work-runtime-2.9.0\res
+com.kkc.clubconnect.admin_app-savedstate-1.2.1-30 C:\Users\vyesh\.gradle\caches\transforms-4\680f69c2dc23e2aa6c296ad032547cba\transformed\savedstate-1.2.1\res
+com.kkc.clubconnect.admin_app-annotation-experimental-1.4.0-31 C:\Users\vyesh\.gradle\caches\transforms-4\6a32a02a56e307dc62916336c5e02c2c\transformed\annotation-experimental-1.4.0\res
+com.kkc.clubconnect.admin_app-savedstate-ktx-1.2.1-32 C:\Users\vyesh\.gradle\caches\transforms-4\6f3d0ccb003951533fbe52293c6fcdeb\transformed\savedstate-ktx-1.2.1\res
+com.kkc.clubconnect.admin_app-lifecycle-runtime-compose-release-33 C:\Users\vyesh\.gradle\caches\transforms-4\7798a505f22b017a914327523f0bbe6a\transformed\lifecycle-runtime-compose-release\res
+com.kkc.clubconnect.admin_app-lifecycle-process-2.8.4-34 C:\Users\vyesh\.gradle\caches\transforms-4\798596e7581cc6914d0eb9f9bba1ee37\transformed\lifecycle-process-2.8.4\res
+com.kkc.clubconnect.admin_app-room-runtime-2.5.0-35 C:\Users\vyesh\.gradle\caches\transforms-4\80d4f9d3f2cd48459e57e79ef1b94523\transformed\room-runtime-2.5.0\res
+com.kkc.clubconnect.admin_app-customview-poolingcontainer-1.0.0-36 C:\Users\vyesh\.gradle\caches\transforms-4\84bc11be252a95bab735873ac4c30e55\transformed\customview-poolingcontainer-1.0.0\res
+com.kkc.clubconnect.admin_app-lifecycle-runtime-ktx-release-37 C:\Users\vyesh\.gradle\caches\transforms-4\85366f196e3b9848b32e7fc9d5c0f7c3\transformed\lifecycle-runtime-ktx-release\res
+com.kkc.clubconnect.admin_app-ui-tooling-data-release-38 C:\Users\vyesh\.gradle\caches\transforms-4\867ad649331f2c8d7d5e7eda7d529b64\transformed\ui-tooling-data-release\res
+com.kkc.clubconnect.admin_app-lifecycle-viewmodel-release-39 C:\Users\vyesh\.gradle\caches\transforms-4\8c6ab0e34412e2415d1d6b61fbf3f3a6\transformed\lifecycle-viewmodel-release\res
+com.kkc.clubconnect.admin_app-lifecycle-viewmodel-ktx-2.8.4-40 C:\Users\vyesh\.gradle\caches\transforms-4\8e06ed22c7f618c72bdf070dc5c16b43\transformed\lifecycle-viewmodel-ktx-2.8.4\res
+com.kkc.clubconnect.admin_app-foundation-layout-release-41 C:\Users\vyesh\.gradle\caches\transforms-4\8f780575e9f2cd79defff1a676f0de84\transformed\foundation-layout-release\res
+com.kkc.clubconnect.admin_app-core-ktx-1.13.1-42 C:\Users\vyesh\.gradle\caches\transforms-4\8fc53a118582568c47748d4591536f0d\transformed\core-ktx-1.13.1\res
+com.kkc.clubconnect.admin_app-sqlite-2.3.0-43 C:\Users\vyesh\.gradle\caches\transforms-4\91ec42399c0b48f451ad404440380f2b\transformed\sqlite-2.3.0\res
+com.kkc.clubconnect.admin_app-lifecycle-viewmodel-compose-release-44 C:\Users\vyesh\.gradle\caches\transforms-4\938b8c2edd643726037b0f97b5a3d28d\transformed\lifecycle-viewmodel-compose-release\res
+com.kkc.clubconnect.admin_app-core-runtime-2.2.0-45 C:\Users\vyesh\.gradle\caches\transforms-4\93c51492ae0fe67c00a0ee49ff650bc4\transformed\core-runtime-2.2.0\res
+com.kkc.clubconnect.admin_app-browser-1.8.0-46 C:\Users\vyesh\.gradle\caches\transforms-4\9593d58c649575a434390693465c0e67\transformed\browser-1.8.0\res
+com.kkc.clubconnect.admin_app-runtime-release-47 C:\Users\vyesh\.gradle\caches\transforms-4\95faa77410be60fa5cf4adb76e941042\transformed\runtime-release\res
+com.kkc.clubconnect.admin_app-navigation-common-2.7.7-48 C:\Users\vyesh\.gradle\caches\transforms-4\9fa5f0b7574c0c0099bc82a0074021dc\transformed\navigation-common-2.7.7\res
+com.kkc.clubconnect.admin_app-material-ripple-release-49 C:\Users\vyesh\.gradle\caches\transforms-4\a8091ce6e88e615c5bf3d46d4fd8a1a0\transformed\material-ripple-release\res
+com.kkc.clubconnect.admin_app-material3-release-50 C:\Users\vyesh\.gradle\caches\transforms-4\aa805eb05d571726c447903d37258d2f\transformed\material3-release\res
+com.kkc.clubconnect.admin_app-ui-test-manifest-1.6.8-51 C:\Users\vyesh\.gradle\caches\transforms-4\b22f903e568dffe5b849e0f6d37be331\transformed\ui-test-manifest-1.6.8\res
+com.kkc.clubconnect.admin_app-constraintlayout-2.0.1-52 C:\Users\vyesh\.gradle\caches\transforms-4\b5f919483816fc788a44536ab3c14a2c\transformed\constraintlayout-2.0.1\res
+com.kkc.clubconnect.admin_app-emoji2-1.3.0-53 C:\Users\vyesh\.gradle\caches\transforms-4\b5fc2c3e8d57ff3797399cc542990fae\transformed\emoji2-1.3.0\res
+com.kkc.clubconnect.admin_app-material-1.12.0-54 C:\Users\vyesh\.gradle\caches\transforms-4\b67da1d1136dec6c888d6df2268922bc\transformed\material-1.12.0\res
+com.kkc.clubconnect.admin_app-core-1.13.1-55 C:\Users\vyesh\.gradle\caches\transforms-4\b6d52f7273d8a74d2f65333951c3d368\transformed\core-1.13.1\res
+com.kkc.clubconnect.admin_app-emoji2-views-helper-1.3.0-56 C:\Users\vyesh\.gradle\caches\transforms-4\b9aacfa6d9636e2751aa6eb79185bd07\transformed\emoji2-views-helper-1.3.0\res
+com.kkc.clubconnect.admin_app-drawerlayout-1.1.1-57 C:\Users\vyesh\.gradle\caches\transforms-4\b9ccbffda1d69adbbaa94367fc71f5f1\transformed\drawerlayout-1.1.1\res
+com.kkc.clubconnect.admin_app-ui-tooling-release-58 C:\Users\vyesh\.gradle\caches\transforms-4\c244f86c332ed364b11d42be2b1e486d\transformed\ui-tooling-release\res
+com.kkc.clubconnect.admin_app-activity-ktx-1.9.0-59 C:\Users\vyesh\.gradle\caches\transforms-4\c35802e2c1465541dea46b46009b724c\transformed\activity-ktx-1.9.0\res
+com.kkc.clubconnect.admin_app-navigation-runtime-ktx-2.7.7-60 C:\Users\vyesh\.gradle\caches\transforms-4\c3b40514875732e1c746a994944a2217\transformed\navigation-runtime-ktx-2.7.7\res
+com.kkc.clubconnect.admin_app-coordinatorlayout-1.1.0-61 C:\Users\vyesh\.gradle\caches\transforms-4\ca38433ee2b435bcf3ce20cc523a0987\transformed\coordinatorlayout-1.1.0\res
+com.kkc.clubconnect.admin_app-animation-core-release-62 C:\Users\vyesh\.gradle\caches\transforms-4\cac39f3689f4e12f07bd994d1a9fad46\transformed\animation-core-release\res
+com.kkc.clubconnect.admin_app-ui-graphics-release-63 C:\Users\vyesh\.gradle\caches\transforms-4\ce438f429530e7a01004f88de1c9b302\transformed\ui-graphics-release\res
+com.kkc.clubconnect.admin_app-ui-text-release-64 C:\Users\vyesh\.gradle\caches\transforms-4\d5e7dfb8fabcc1a39cbaa2e5f2af2910\transformed\ui-text-release\res
+com.kkc.clubconnect.admin_app-material-release-65 C:\Users\vyesh\.gradle\caches\transforms-4\db5a55c6f38c7e25e3a06e91789a5bd5\transformed\material-release\res
+com.kkc.clubconnect.admin_app-sqlite-framework-2.3.0-66 C:\Users\vyesh\.gradle\caches\transforms-4\db8fbf37dbc24e5e98dfe86294b056ef\transformed\sqlite-framework-2.3.0\res
+com.kkc.clubconnect.admin_app-activity-compose-1.9.0-67 C:\Users\vyesh\.gradle\caches\transforms-4\e9354e518eeb3e04de6680efde14dc53\transformed\activity-compose-1.9.0\res
+com.kkc.clubconnect.admin_app-activity-1.9.0-68 C:\Users\vyesh\.gradle\caches\transforms-4\ed02e1acdd9abd80fa0aa4b5342096e4\transformed\activity-1.9.0\res
+com.kkc.clubconnect.admin_app-lifecycle-runtime-release-69 C:\Users\vyesh\.gradle\caches\transforms-4\ee1e152e09249bda994df082764a711f\transformed\lifecycle-runtime-release\res
+com.kkc.clubconnect.admin_app-lifecycle-viewmodel-savedstate-2.8.4-70 C:\Users\vyesh\.gradle\caches\transforms-4\f35f3ee1bc0420adb6531972297ebdd5\transformed\lifecycle-viewmodel-savedstate-2.8.4\res
+com.kkc.clubconnect.admin_app-viewpager2-1.0.0-71 C:\Users\vyesh\.gradle\caches\transforms-4\fd1ef8d1ffaa5edfc4f08c6a0dd6029e\transformed\viewpager2-1.0.0\res
+com.kkc.clubconnect.admin_app-pngs-72 E:\Coding\KKC app\admin_app\build\generated\res\pngs\debug
+com.kkc.clubconnect.admin_app-resValues-73 E:\Coding\KKC app\admin_app\build\generated\res\resValues\debug
+com.kkc.clubconnect.admin_app-packageDebugResources-74 E:\Coding\KKC app\admin_app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.kkc.clubconnect.admin_app-packageDebugResources-75 E:\Coding\KKC app\admin_app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.kkc.clubconnect.admin_app-debug-76 E:\Coding\KKC app\admin_app\build\intermediates\merged_res\debug\mergeDebugResources
+com.kkc.clubconnect.admin_app-debug-77 E:\Coding\KKC app\admin_app\src\debug\res
+com.kkc.clubconnect.admin_app-main-78 E:\Coding\KKC app\admin_app\src\main\res
+com.kkc.clubconnect.admin_app-main-79 E:\Coding\KKC app\app\src\main\res

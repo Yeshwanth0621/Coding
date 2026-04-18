@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\vyesh\\.gradle\\daemon\\8.7\\com.kkc.clubconnect.app-debug-76:\\drawable_club_logo_placeholder.xml.flat",
+        "source": "C:\\Users\\vyesh\\.gradle\\daemon\\8.7\\com.kkc.clubconnect.app-main-78:\\drawable\\club_logo_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\vyesh\\.gradle\\daemon\\8.7\\com.kkc.clubconnect.app-debug-76:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\vyesh\\.gradle\\daemon\\8.7\\com.kkc.clubconnect.app-main-78:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\vyesh\\.gradle\\daemon\\8.7\\com.kkc.clubconnect.app-debug-76:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\vyesh\\.gradle\\daemon\\8.7\\com.kkc.clubconnect.app-main-78:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\vyesh\\.gradle\\daemon\\8.7\\com.kkc.clubconnect.app-debug-76:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\vyesh\\.gradle\\daemon\\8.7\\com.kkc.clubconnect.app-main-78:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.kkc.clubconnect.app-debug-76:/drawable_club_logo_minimal.xml.flat",
+        "source": "com.kkc.clubconnect.app-main-78:/drawable/club_logo_minimal.xml"
+    },
+    {
+        "merged": "C:\\Users\\vyesh\\.gradle\\daemon\\8.7\\com.kkc.clubconnect.app-debug-76:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\vyesh\\.gradle\\daemon\\8.7\\com.kkc.clubconnect.app-main-78:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\vyesh\\.gradle\\daemon\\8.7\\com.kkc.clubconnect.app-debug-76:\\drawable_club_connect_brand_mark.xml.flat",
+        "source": "C:\\Users\\vyesh\\.gradle\\daemon\\8.7\\com.kkc.clubconnect.app-main-78:\\drawable\\club_connect_brand_mark.xml"
+    },
+    {
+        "merged": "C:\\Users\\vyesh\\.gradle\\daemon\\8.7\\com.kkc.clubconnect.app-debug-76:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\vyesh\\.gradle\\daemon\\8.7\\com.kkc.clubconnect.app-main-78:\\xml\\backup_rules.xml"
+    }
+]

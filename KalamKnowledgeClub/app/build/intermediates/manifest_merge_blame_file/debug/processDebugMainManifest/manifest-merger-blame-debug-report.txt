@@ -1,0 +1,148 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.kalamknowledgeclub"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="29"
+9        android:targetSdkVersion="36" />
+10
+11    <permission
+11-->[androidx.core:core:1.17.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\7228f578e419e0a53cfd5b0ce45cf3af\transformed\core-1.17.0\AndroidManifest.xml:22:5-24:47
+12        android:name="com.example.kalamknowledgeclub.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12-->[androidx.core:core:1.17.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\7228f578e419e0a53cfd5b0ce45cf3af\transformed\core-1.17.0\AndroidManifest.xml:23:9-81
+13        android:protectionLevel="signature" />
+13-->[androidx.core:core:1.17.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\7228f578e419e0a53cfd5b0ce45cf3af\transformed\core-1.17.0\AndroidManifest.xml:24:9-44
+14
+15    <uses-permission android:name="com.example.kalamknowledgeclub.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+15-->[androidx.core:core:1.17.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\7228f578e419e0a53cfd5b0ce45cf3af\transformed\core-1.17.0\AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.17.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\7228f578e419e0a53cfd5b0ce45cf3af\transformed\core-1.17.0\AndroidManifest.xml:26:22-94
+16
+17    <application
+17-->E:\Coding\KalamKnowledgeClub\app\src\main\AndroidManifest.xml:5:5-25:19
+18        android:allowBackup="true"
+18-->E:\Coding\KalamKnowledgeClub\app\src\main\AndroidManifest.xml:6:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.17.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\7228f578e419e0a53cfd5b0ce45cf3af\transformed\core-1.17.0\AndroidManifest.xml:28:18-86
+20        android:dataExtractionRules="@xml/data_extraction_rules"
+20-->E:\Coding\KalamKnowledgeClub\app\src\main\AndroidManifest.xml:7:9-65
+21        android:debuggable="true"
+22        android:extractNativeLibs="false"
+23        android:fullBackupContent="@xml/backup_rules"
+23-->E:\Coding\KalamKnowledgeClub\app\src\main\AndroidManifest.xml:8:9-54
+24        android:icon="@mipmap/ic_launcher"
+24-->E:\Coding\KalamKnowledgeClub\app\src\main\AndroidManifest.xml:9:9-43
+25        android:label="@string/app_name"
+25-->E:\Coding\KalamKnowledgeClub\app\src\main\AndroidManifest.xml:10:9-41
+26        android:roundIcon="@mipmap/ic_launcher_round"
+26-->E:\Coding\KalamKnowledgeClub\app\src\main\AndroidManifest.xml:11:9-54
+27        android:supportsRtl="true"
+27-->E:\Coding\KalamKnowledgeClub\app\src\main\AndroidManifest.xml:12:9-35
+28        android:theme="@style/Theme.KalamKnowledgeClub" >
+28-->E:\Coding\KalamKnowledgeClub\app\src\main\AndroidManifest.xml:13:9-56
+29        <activity
+29-->E:\Coding\KalamKnowledgeClub\app\src\main\AndroidManifest.xml:14:9-24:20
+30            android:name="com.example.kalamknowledgeclub.MainActivity"
+30-->E:\Coding\KalamKnowledgeClub\app\src\main\AndroidManifest.xml:15:13-41
+31            android:exported="true"
+31-->E:\Coding\KalamKnowledgeClub\app\src\main\AndroidManifest.xml:16:13-36
+32            android:label="@string/app_name"
+32-->E:\Coding\KalamKnowledgeClub\app\src\main\AndroidManifest.xml:17:13-45
+33            android:theme="@style/Theme.KalamKnowledgeClub" >
+33-->E:\Coding\KalamKnowledgeClub\app\src\main\AndroidManifest.xml:18:13-60
+34            <intent-filter>
+34-->E:\Coding\KalamKnowledgeClub\app\src\main\AndroidManifest.xml:19:13-23:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->E:\Coding\KalamKnowledgeClub\app\src\main\AndroidManifest.xml:20:17-69
+35-->E:\Coding\KalamKnowledgeClub\app\src\main\AndroidManifest.xml:20:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->E:\Coding\KalamKnowledgeClub\app\src\main\AndroidManifest.xml:22:17-77
+37-->E:\Coding\KalamKnowledgeClub\app\src\main\AndroidManifest.xml:22:27-74
+38            </intent-filter>
+39        </activity>
+40        <activity
+40-->[androidx.compose.ui:ui-tooling-android:1.9.2] C:\Users\vyesh\.gradle\caches\8.13\transforms\77e9a932df46403b2d8b05c5df326745\transformed\ui-tooling\AndroidManifest.xml:23:9-25:39
+41            android:name="androidx.compose.ui.tooling.PreviewActivity"
+41-->[androidx.compose.ui:ui-tooling-android:1.9.2] C:\Users\vyesh\.gradle\caches\8.13\transforms\77e9a932df46403b2d8b05c5df326745\transformed\ui-tooling\AndroidManifest.xml:24:13-71
+42            android:exported="true" />
+42-->[androidx.compose.ui:ui-tooling-android:1.9.2] C:\Users\vyesh\.gradle\caches\8.13\transforms\77e9a932df46403b2d8b05c5df326745\transformed\ui-tooling\AndroidManifest.xml:25:13-36
+43
+44        <provider
+44-->[androidx.emoji2:emoji2:1.4.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\72c939e20cec8eb180ef4a534d0453b4\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+45            android:name="androidx.startup.InitializationProvider"
+45-->[androidx.emoji2:emoji2:1.4.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\72c939e20cec8eb180ef4a534d0453b4\transformed\emoji2-1.4.0\AndroidManifest.xml:25:13-67
+46            android:authorities="com.example.kalamknowledgeclub.androidx-startup"
+46-->[androidx.emoji2:emoji2:1.4.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\72c939e20cec8eb180ef4a534d0453b4\transformed\emoji2-1.4.0\AndroidManifest.xml:26:13-68
+47            android:exported="false" >
+47-->[androidx.emoji2:emoji2:1.4.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\72c939e20cec8eb180ef4a534d0453b4\transformed\emoji2-1.4.0\AndroidManifest.xml:27:13-37
+48            <meta-data
+48-->[androidx.emoji2:emoji2:1.4.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\72c939e20cec8eb180ef4a534d0453b4\transformed\emoji2-1.4.0\AndroidManifest.xml:29:13-31:52
+49                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+49-->[androidx.emoji2:emoji2:1.4.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\72c939e20cec8eb180ef4a534d0453b4\transformed\emoji2-1.4.0\AndroidManifest.xml:30:17-75
+50                android:value="androidx.startup" />
+50-->[androidx.emoji2:emoji2:1.4.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\72c939e20cec8eb180ef4a534d0453b4\transformed\emoji2-1.4.0\AndroidManifest.xml:31:17-49
+51            <meta-data
+51-->[androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\ac19144ba184372fac931515f5584718\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:29:13-31:52
+52                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+52-->[androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\ac19144ba184372fac931515f5584718\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:30:17-78
+53                android:value="androidx.startup" />
+53-->[androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\ac19144ba184372fac931515f5584718\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:31:17-49
+54            <meta-data
+54-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\bfb7925104d534f4f73ce56c5572520e\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+55                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+55-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\bfb7925104d534f4f73ce56c5572520e\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+56                android:value="androidx.startup" />
+56-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\bfb7925104d534f4f73ce56c5572520e\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+57        </provider>
+58
+59        <activity
+59-->[androidx.compose.ui:ui-test-manifest:1.9.2] C:\Users\vyesh\.gradle\caches\8.13\transforms\8b7457b2191404bc0eba99954badf98c\transformed\ui-test-manifest-1.9.2\AndroidManifest.xml:23:9-26:79
+60            android:name="androidx.activity.ComponentActivity"
+60-->[androidx.compose.ui:ui-test-manifest:1.9.2] C:\Users\vyesh\.gradle\caches\8.13\transforms\8b7457b2191404bc0eba99954badf98c\transformed\ui-test-manifest-1.9.2\AndroidManifest.xml:24:13-63
+61            android:exported="true"
+61-->[androidx.compose.ui:ui-test-manifest:1.9.2] C:\Users\vyesh\.gradle\caches\8.13\transforms\8b7457b2191404bc0eba99954badf98c\transformed\ui-test-manifest-1.9.2\AndroidManifest.xml:25:13-36
+62            android:theme="@android:style/Theme.Material.Light.NoActionBar" />
+62-->[androidx.compose.ui:ui-test-manifest:1.9.2] C:\Users\vyesh\.gradle\caches\8.13\transforms\8b7457b2191404bc0eba99954badf98c\transformed\ui-test-manifest-1.9.2\AndroidManifest.xml:26:13-76
+63
+64        <receiver
+64-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\bfb7925104d534f4f73ce56c5572520e\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+65            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+65-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\bfb7925104d534f4f73ce56c5572520e\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+66            android:directBootAware="false"
+66-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\bfb7925104d534f4f73ce56c5572520e\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+67            android:enabled="true"
+67-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\bfb7925104d534f4f73ce56c5572520e\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+68            android:exported="true"
+68-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\bfb7925104d534f4f73ce56c5572520e\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+69            android:permission="android.permission.DUMP" >
+69-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\bfb7925104d534f4f73ce56c5572520e\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+70            <intent-filter>
+70-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\bfb7925104d534f4f73ce56c5572520e\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+71                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+71-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\bfb7925104d534f4f73ce56c5572520e\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+71-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\bfb7925104d534f4f73ce56c5572520e\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+72            </intent-filter>
+73            <intent-filter>
+73-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\bfb7925104d534f4f73ce56c5572520e\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+74                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+74-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\bfb7925104d534f4f73ce56c5572520e\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+74-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\bfb7925104d534f4f73ce56c5572520e\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+75            </intent-filter>
+76            <intent-filter>
+76-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\bfb7925104d534f4f73ce56c5572520e\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+77                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+77-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\bfb7925104d534f4f73ce56c5572520e\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+77-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\bfb7925104d534f4f73ce56c5572520e\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+78            </intent-filter>
+79            <intent-filter>
+79-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\bfb7925104d534f4f73ce56c5572520e\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+80                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+80-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\bfb7925104d534f4f73ce56c5572520e\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+80-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vyesh\.gradle\caches\8.13\transforms\bfb7925104d534f4f73ce56c5572520e\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+81            </intent-filter>
+82        </receiver>
+83    </application>
+84
+85</manifest>

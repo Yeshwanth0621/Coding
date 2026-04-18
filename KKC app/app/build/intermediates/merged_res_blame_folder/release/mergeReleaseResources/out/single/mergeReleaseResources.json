@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.kkc.clubconnect.app-release-72:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.kkc.clubconnect.app-main-73:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.kkc.clubconnect.app-release-72:/xml_data_extraction_rules.xml.flat",
+        "source": "com.kkc.clubconnect.app-main-73:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.kkc.clubconnect.app-release-72:/drawable_club_connect_brand_mark.xml.flat",
+        "source": "com.kkc.clubconnect.app-main-73:/drawable/club_connect_brand_mark.xml"
+    },
+    {
+        "merged": "com.kkc.clubconnect.app-release-72:/xml_backup_rules.xml.flat",
+        "source": "com.kkc.clubconnect.app-main-73:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.kkc.clubconnect.app-release-72:/drawable_club_logo_placeholder.xml.flat",
+        "source": "com.kkc.clubconnect.app-main-73:/drawable/club_logo_placeholder.xml"
+    },
+    {
+        "merged": "com.kkc.clubconnect.app-release-72:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.kkc.clubconnect.app-main-73:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.kkc.clubconnect.app-release-72:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.kkc.clubconnect.app-main-73:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+color splash_background
+drawable club_connect_brand_mark
+drawable club_logo_minimal
+drawable club_logo_placeholder
+drawable ic_launcher_background
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string notification_channel_description
+string notification_channel_name
+string notification_fallback_body
+string notification_fallback_title
+style Theme.CITClubConnect
+style Theme.CITClubConnect.Splash
+xml backup_rules
+xml data_extraction_rules
