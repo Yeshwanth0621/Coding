@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Book icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30 L54,78 M32,36 L54,30 L76,36 L76,72 L54,78 L32,72 Z"/>
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:strokeColor="#FFFFFF"
+        android:pathData="M32,36 L32,72 L54,78 L54,30 L32,36 Z"/>
+        
+    <path
+        android:fillColor="#E0E0FF"
+        android:strokeWidth="2"
+        android:strokeColor="#FFFFFF"
+        android:pathData="M76,36 L76,72 L54,78 L54,30 L76,36 Z"/>
+        
+    <!-- Book spine -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30 L54,78"
+        android:strokeWidth="3"
+        android:strokeColor="#FFFFFF"/>
+        
+    <!-- Pages -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeWidth="1.5"
+        android:strokeColor="#FFFFFF"
+        android:pathData="M38,42 L50,38"/>
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeWidth="1.5"
+        android:strokeColor="#FFFFFF"
+        android:pathData="M38,50 L50,46"/>
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeWidth="1.5"
+        android:strokeColor="#FFFFFF"
+        android:pathData="M38,58 L50,54"/>
+        
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeWidth="1.5"
+        android:strokeColor="#E0E0FF"
+        android:pathData="M70,42 L58,38"/>
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeWidth="1.5"
+        android:strokeColor="#E0E0FF"
+        android:pathData="M70,50 L58,46"/>
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeWidth="1.5"
+        android:strokeColor="#E0E0FF"
+        android:pathData="M70,58 L58,54"/>
+</vector>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CIT Club Connect</string>
+    <string name="notification_channel_name">CIT club event updates</string>
+    <string name="notification_channel_description">Event updates and 1-hour reminders with club and venue details.</string>
+    <string name="notification_fallback_title">CIT Club Connect</string>
+    <string name="notification_fallback_body">A new update is waiting in the app.</string>
+</resources>
